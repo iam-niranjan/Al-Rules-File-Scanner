@@ -1,0 +1,6 @@
+streamlit>=1.31.0
+pandas>=2.2.0
+matplotlib>=3.8.2
+unicodedata2>=15.1.0
+pyyaml>=6.0.1
+pygments>=2.16.1 

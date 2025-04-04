@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "name": "Code Style",
+      "description": "Follow the project's established code style",
+      "patterns": ["Use camelCase for variables", "Use PascalCase for classes"]
+    },
+    {
+      "name": "Error Handling",
+      "description": "Ensure proper error handling in all functions",
+      "patterns": ["Use try/catch blocks", "Return meaningful error messages"]
+    },
+    {
+      "name": "Documentation",
+      "description": "Maintain proper documentation",
+      "patterns": ["Add JSDoc comments for functions", "Document complex logic"]
+    }
+  ]
+} 
